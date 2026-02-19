@@ -1,0 +1,13 @@
+# ignore all node_modules in any folder
+node_modules/
+**/node_modules/
+
+#bulid folder
+dist/
+bulid/
+# Enviremantal  files
+.env
+.env.local
+
+# Logs
+*.log
